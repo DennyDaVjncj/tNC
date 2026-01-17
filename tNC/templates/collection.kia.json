@@ -1,0 +1,137 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "1651552134ad2101ba": {
+      "type": "image-banner",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/THE_NEW_COOL_WEB_BANNER.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1651582534079b9642": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div><img src=\"https://cdn.shopify.com/s/files/1/0065/6487/2280/files/KIA_IN_DIS_71f782fb-d314-47fd-8ce2-7e84e3f40ffd_240x240.png?v=1651541178\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 5,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16515773486864b00f": {
+      "type": "collection-list",
+      "blocks": {
+        "16515773482da99406-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vals-collection"
+          }
+        },
+        "16515773482da99406-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-kia-collection"
+          }
+        },
+        "a1fce203-f197-4ac7-8e07-53fabddf8d7d": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "anto"
+          }
+        },
+        "16515773482da99406-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hats"
+          }
+        },
+        "c22986dd-4608-4489-935c-a517920f1b2a": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "chains"
+          }
+        },
+        "e5d5b666-bf09-40f4-8429-a1fc50d6542c": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "posters-canvass-home-decor"
+          }
+        }
+      },
+      "block_order": [
+        "16515773482da99406-2",
+        "16515773482da99406-1",
+        "a1fce203-f197-4ac7-8e07-53fabddf8d7d",
+        "16515773482da99406-0",
+        "c22986dd-4608-4489-935c-a517920f1b2a",
+        "e5d5b666-bf09-40f4-8429-a1fc50d6542c"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "1651552134ad2101ba",
+    "1651582534079b9642",
+    "product-grid",
+    "16515773486864b00f"
+  ]
+}

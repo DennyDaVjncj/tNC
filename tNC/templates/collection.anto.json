@@ -1,0 +1,251 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "1651552134ad2101ba": {
+      "type": "image-banner",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/THE_NEW_COOL_WEB_BANNER.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1651582534079b9642": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0065/6487/2280/files/ANTO_240x240.png?v=1651389190\" style=\"float: none; display: block; margin-left: auto; margin-right: auto;\" /></div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 5,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16515857521059890c": {
+      "type": "collage",
+      "blocks": {
+        "38cf7cb9-5090-4fea-8e4d-d17c5e1b8853": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BING_BONG.png",
+            "image_padding": true
+          }
+        },
+        "f4553669-8a7e-46a5-9b19-78a87eab8075": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1400.jpg",
+            "image_padding": true
+          }
+        },
+        "a78d7be6-066c-4c82-9953-704f62cbad56": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1401.png",
+            "image_padding": true
+          }
+        }
+      },
+      "block_order": [
+        "38cf7cb9-5090-4fea-8e4d-d17c5e1b8853",
+        "f4553669-8a7e-46a5-9b19-78a87eab8075",
+        "a78d7be6-066c-4c82-9953-704f62cbad56"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16515863622d30c7fa": {
+      "type": "multicolumn",
+      "blocks": {
+        "96a2f54a-fbcf-40fa-a238-e90aef1fe0bb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/YO-I-LOVE-YOU_93aa47f0-1765-4fc4-b128-a0ec96c99084.gif",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1651586362e2b3b716-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/MUSIC.png",
+            "title": "Music",
+            "text": "<p>Check out releases like Taste and Takeoff on Soundcloud.</p>",
+            "link_label": "More Details",
+            "link": "https://soundcloud.com/anto_social"
+          }
+        },
+        "1651586362e2b3b716-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SUP.png",
+            "title": "Open Mic",
+            "text": "<p>Look at performances across Orlando.</p>",
+            "link_label": "More Details",
+            "link": "https://www.youtube.com/channel/UCWxzJlt2w0gIaJ_iFtf8Cmg"
+          }
+        }
+      },
+      "block_order": [
+        "96a2f54a-fbcf-40fa-a238-e90aef1fe0bb",
+        "1651586362e2b3b716-2",
+        "1651586362e2b3b716-0"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16515857262f88242b": {
+      "type": "featured-blog",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "blog": "music",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16515773486864b00f": {
+      "type": "collection-list",
+      "blocks": {
+        "16515773482da99406-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vals-collection"
+          }
+        },
+        "16515773482da99406-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-kia-collection"
+          }
+        },
+        "a1fce203-f197-4ac7-8e07-53fabddf8d7d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "anto"
+          }
+        },
+        "16515773482da99406-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hats"
+          }
+        },
+        "c22986dd-4608-4489-935c-a517920f1b2a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "chains"
+          }
+        },
+        "e5d5b666-bf09-40f4-8429-a1fc50d6542c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "posters-canvass-home-decor"
+          }
+        }
+      },
+      "block_order": [
+        "16515773482da99406-2",
+        "16515773482da99406-1",
+        "a1fce203-f197-4ac7-8e07-53fabddf8d7d",
+        "16515773482da99406-0",
+        "c22986dd-4608-4489-935c-a517920f1b2a",
+        "e5d5b666-bf09-40f4-8429-a1fc50d6542c"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "1651552134ad2101ba",
+    "1651582534079b9642",
+    "product-grid",
+    "16515857521059890c",
+    "16515863622d30c7fa",
+    "16515857262f88242b",
+    "16515773486864b00f"
+  ]
+}

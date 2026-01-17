@@ -1,0 +1,157 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1651584269f6614b98": {
+      "type": "multicolumn",
+      "blocks": {
+        "1651584269e8d90ce7-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IDF_487dcd93-f5bf-492a-a49f-a3309c95e081.png",
+            "title": "INDEPENDENT DREAM FACTORY",
+            "text": "<p>A <strong>PLATFORM </strong>FOR CREATIVES LED BY A WHOLESOME GROUP OF INDIVIDUALS. STAY TUNED WITH OPEN MICS, RADIO PLAY, EVENTS & MORE!</p>",
+            "link_label": "More Details",
+            "link": "https://www.independentdreamfactory.com"
+          }
+        },
+        "1651584269e8d90ce7-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/TWITCH_BLACK.png",
+            "title": "MATTHEW ANDREWS",
+            "text": "<p>CHECK OUT OUR GOOD FRIEND <strong>MATTHEW ANDREWS </strong>AND HIS GAMING CHANNEL. GOOD VIBES, TIMES, RHYMES, ONLINE!</p>",
+            "link_label": "More Details",
+            "link": "https://www.twitch.tv/mattdrews"
+          }
+        },
+        "1651584269e8d90ce7-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/EXPERT_TIMING.png",
+            "title": "ET",
+            "text": "<p>ORLANDO BASED GROUP THAT <strong>ROCK OUT</strong> AND CATCH SHOWS IN NORTH/CENTRAL FLORIDA. CHECK OUT NEW FESTIVALS AND NEW SOUNDS</p>",
+            "link_label": "More Details",
+            "link": "https://www.facebook.com/experttimingband"
+          }
+        },
+        "fd175a66-b493-4cfa-9636-693b1fa9b04a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/AIRPORT_DRIVE_adf124f8-1505-4a82-ab93-51484fd647fe.png",
+            "title": "AIRPORT DRIVE",
+            "text": "<p>TALLAHASSE BASED BAND INFECTED WITH BIRD SWEAT GANG <strong>CULTURE</strong>. IF YOUR INTRESTED IN PARTYING AND HAVING A GOOD TIME SEE WHATS NEW.</p>",
+            "link_label": "More Details",
+            "link": "https://thenewcool.org/pages/spots-in-orlando"
+          }
+        },
+        "34a658ed-fa0c-47cf-9b99-2c786e0b6fa7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/790.png",
+            "title": "SPORTS",
+            "text": "<p>STATION OF CHOICE. MONDAY - FRIDAY 6AM-10AM SOUTH FLORIDA <strong>SILLY SAUCE </strong>IS PRESENTED BY THE TOBIN AND LEROY SHOW. IT IS TIME FOR YOUR WHITE HOT HEAT, DONT MISS A BEAT! - ANTO </p>",
+            "link_label": "More Details",
+            "link": "https://www.twitch.tv/790theticket"
+          }
+        },
+        "d05c0d91-b93f-4692-b6c0-d2aee28fbdfd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SUNSHINE_JAMZ.png",
+            "title": "RADIO",
+            "text": "<p>FOR HITS OLD AND NEW, STAY TUNED TO THE SUNNYSIDE. HOME OF DAILY CONTENT, VIDEOS, PODCASTS, COMEDEY AND MUSIC</p>",
+            "link_label": "View More",
+            "link": "https://wxsj973radio.com/sunshine-jams-miami/"
+          }
+        },
+        "285897ba-e730-46a3-969a-0b17090c568e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/LIQTALK.png",
+            "title": "PODCAST",
+            "text": "<p>ONE THE MOST AUTHENTIC, ORIGNAL AND JUICIEST <strong>PODCAST</strong> HERE LOCALLY IN ORLANDO.</p>",
+            "link_label": "View More",
+            "link": "https://beacons.ai/liquortalk"
+          }
+        },
+        "7a842704-c7a2-4d15-82fd-3745882d8c87": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SOME_MORE.png",
+            "title": "ITALIAN",
+            "text": "<p>A <strong>SLICE</strong> OF THAT NICE NICE. CATCH ME HERE TWO MIMOSAS AT A TIME, THEY'RE BOTTOMLESS! - ANTO</p>",
+            "link_label": "View More",
+            "link": "https://www.metroespressopizza.com"
+          }
+        },
+        "0c73e232-6559-42bb-80dc-7b180fe8be26": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BIG_DREWS.png",
+            "title": "BBQ",
+            "text": "<p>SUM BUH-BUH-BUSSIN <strong>BBQ </strong>THAT WILL HIT YOUR NOSE BEFORE MOUTH. IF YOU ARE LOCAL IN ORLANDO, ORDER DELIVERY OR POP UP TO AN EVENT. SELECTION IS KEY, ID LIKE YOU TO SEE - ANTO</p>",
+            "link_label": "View More",
+            "link": "https://www.facebook.com/BigDrewsKitchenOrlando/?ref=page_internal"
+          }
+        },
+        "c65471c7-3236-4662-89c8-f8b5e80bd03f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Elysium_16a2c2b3-3c2f-4321-9e06-78371743603f.png",
+            "title": "FINE SHINE",
+            "text": "<p>Stay tuned for upcoming one of ones ranging from earrings, necklaces, coasters & more!</p>",
+            "link_label": "View More",
+            "link": "https://www.instagram.com/elysium_gems/"
+          }
+        }
+      },
+      "block_order": [
+        "1651584269e8d90ce7-0",
+        "1651584269e8d90ce7-1",
+        "1651584269e8d90ce7-2",
+        "fd175a66-b493-4cfa-9636-693b1fa9b04a",
+        "34a658ed-fa0c-47cf-9b99-2c786e0b6fa7",
+        "d05c0d91-b93f-4692-b6c0-d2aee28fbdfd",
+        "285897ba-e730-46a3-969a-0b17090c568e",
+        "7a842704-c7a2-4d15-82fd-3745882d8c87",
+        "0c73e232-6559-42bb-80dc-7b180fe8be26",
+        "c65471c7-3236-4662-89c8-f8b5e80bd03f"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1651584269f6614b98"
+  ]
+}
