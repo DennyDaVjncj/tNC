@@ -114,7 +114,9 @@ function App() {
       </section>
 
       <div className="ticks">
-        
+        export const Footer=()=>{
+          
+        }
       </div>
       <section id="spacer"></section>
     </>
