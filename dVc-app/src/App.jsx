@@ -37,19 +37,18 @@ function App() {
           <svg className="icon" role="presentation" aria-hidden="true">
             <use href="/icons.svg#documentation-icon"></use>
           </svg>
-          <h2>Documentation</h2>
-          <p>Your questions, answered</p>
+          <h2>Consulting service(s)</h2>
           <ul>
             <li>
-              <a href="https://vite.dev/" target="_blank">
+              <a href="https://theNewCool.us" target="_blank">
                 <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
+                eCommerce
               </a>
             </li>
             <li>
               <a href="https://react.dev/" target="_blank">
                 <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
+                Software engineering
               </a>
             </li>
           </ul>
@@ -58,8 +57,9 @@ function App() {
           <svg className="icon" role="presentation" aria-hidden="true">
             <use href="/icons.svg#social-icon"></use>
           </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
+          <h2>Operational enhancement</h2>
+          <code>Supply chain solution(s)</code>
+          <p>Strategy</p>
           <ul>
             <li>
               <a href="https://github.com/vitejs/vite" target="_blank">
@@ -123,7 +123,9 @@ function App() {
 
 export const Footer=()=>{
   return(
-    <footer></footer>
+    <footer>
+      
+    </footer>
   )
 }
 export default App
