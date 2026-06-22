@@ -125,15 +125,19 @@ export const Footer=()=>{
   return(
     <footer>
       <ul>
-        <li><img className="button-icon" src={reactLogo} alt="" /></li>
+        <li>
+          <img className="button-icon" src={reactLogo} alt=""/>
+        </li>
       </ul>
       <ul>
-        <li></li>
+        <li>Nothing to see here.</li>
       </ul>
       <ul>
-        <code>
-          1 intentional step at a time.
-        </code>
+        <li>
+          <code>
+            1 intentional step at a time.
+          </code>
+        </li>
       </ul>
     </footer>
   )
