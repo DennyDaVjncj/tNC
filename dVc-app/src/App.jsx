@@ -114,7 +114,7 @@ function App() {
       </section>
 
       <div className="ticks">
-       
+       <Footer/>
       </div>
       <section id="spacer"></section>
     </>
